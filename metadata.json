@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Resilience Intelligence",
+  "description": "Evidence-grounded infrastructure and climate resilience intelligence platform connecting spatial observation to accountable decisions and verified outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
